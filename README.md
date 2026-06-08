@@ -118,3 +118,5 @@ Visual progress tracking against four pre-set reduction goals, each tied to a sp
 - **Wearable/mobility integration** — auto-detect transport mode via GPS
 - **Employer carbon reporting** — aggregate employee footprints for Scope 3 reporting
 - **Gamification** — streaks, badges, and social challenges for sustained behaviour change
+
+Web Link: file:///C:/Users/somda/Downloads/carbon_footprint_platform.html
